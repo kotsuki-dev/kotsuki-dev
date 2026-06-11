@@ -19,9 +19,9 @@ Interests:
 
 ## Current Focus
 
-### AI Gmail Organizer
+### Email ML Platform
 
-An experimental platform for organizing Gmail archives using embeddings, classification, and LLM-assisted workflows.
+An experimental platform for organizing Email archives using embeddings, classification, and LLM-assisted workflows.
 
 Current explorations:
 
