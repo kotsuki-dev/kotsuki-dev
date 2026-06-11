@@ -1,12 +1,6 @@
 # Tsú-Kî (kotsuki)
 
-<!--
-$ boot kotsuki.dev
-[ OK ] loading curiosity
-[ OK ] loading AI tools
-[ OK ] CLI utilities
-[ OK ] echo subsystem initialized
--->
+![](https://github.com/kotsuki-dev/kotsuki-dev/blob/main/gallery/ButterflySproutsFromHead%26EyePatternsWings%3AOpenFieldOfVision-UnrestrainedImagination.jpeg)
 
 ```text
 
