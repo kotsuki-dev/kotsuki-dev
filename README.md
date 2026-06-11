@@ -1,6 +1,12 @@
 # Tsú-Kî (kotsuki)
+<br />
 
-![](https://github.com/kotsuki-dev/kotsuki-dev/blob/main/gallery/ButterflySproutsFromHead%26EyePatternsWings%3AOpenFieldOfVision-UnrestrainedImagination.jpeg?raw=true)
+![
+    All sorts of ideas and imaginations nurture magical butterflies, their observations of people and things from various angles transforming into eye patterns of all sizes. 
+    Starting from the butterfly's wings, these patterns spread and expand, revealing boundless imagination, limitless vision, and an explosion of creativity!
+    各式各樣的想法與想像養出神奇的蝴蝶，對人事物各種角度的觀察變成大大小小的眼睛紋樣。
+    從蝴蝶的翅膀開始蔓延擴散，想像力沒有限制、視野沒有邊際、腦洞大開…
+](https://github.com/kotsuki-dev/kotsuki-dev/blob/main/gallery/ButterflySproutsFromHead%26EyePatternsWings%3AOpenFieldOfVision-UnrestrainedImagination.jpeg?raw=true)
 
 ```text
 
