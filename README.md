@@ -1,6 +1,6 @@
 # Tsú-Kî (kotsuki)
 
-![](https://github.com/kotsuki-dev/kotsuki-dev/blob/main/gallery/ButterflySproutsFromHead%26EyePatternsWings%3AOpenFieldOfVision-UnrestrainedImagination.jpeg)
+![](https://github.com/kotsuki-dev/kotsuki-dev/blob/main/gallery/ButterflySproutsFromHead%26EyePatternsWings%3AOpenFieldOfVision-UnrestrainedImagination.jpeg?raw=true)
 
 ```text
 
