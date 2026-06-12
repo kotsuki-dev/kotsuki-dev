@@ -52,11 +52,13 @@ Simple palettes are used to create strong contrast, memorable silhouettes, and i
 
 # Butterfly of Expanding Vision
 
-![Butterflies with eye-patterned wings spreading from a self-portrait, symbolizing curiosity and expanding perspectives.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/01-eye-butterfly-curiosity.jpeg?raw=true)
-
 The central symbol of the entire brand.
 
 A self-portrait grows a butterfly from the top of its head, representing thoughts extending beyond their original boundaries.
+
+![Butterflies with eye-patterned wings spreading from a self-portrait, symbolizing curiosity and expanding perspectives.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/01-eye-butterfly-curiosity.jpeg?raw=true)
+
+> Curiosity · Imagination · Intellectual Exploration · Expanding Vision
 
 ### Butterfly
 
@@ -84,9 +86,15 @@ This contrast represents structure coexisting with freedom, and boundaries that 
 
 # Spiderweb of Thoughts and Connections
 
-![A self-portrait woven into a spiderweb of thoughts, connections, and patterns.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/02-spiderweb-mind-connections.jpeg?raw=true)
-
 A self-portrait covered by a giant spiderweb.
+
+<img
+  src="https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/02-spiderweb-mind-connections.jpeg?raw=true"
+  alt="A self-portrait woven into a spiderweb of thoughts, connections, and patterns."
+  height="256"
+/>
+
+> Connections · Search · Graph · Knowledge Network · Pattern Recognition
 
 ### Self-Portrait
 
@@ -116,9 +124,11 @@ It can also be interpreted as:
 
 # Curious Butterflies in Another World
 
+A surreal world built from fragmented geography.
+
 ![A fragmented world map and butterfly, symbolizing global perspective and boundless imagination.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/03-otherworld-map-perspective.jpeg?raw=true)
 
-A surreal world built from fragmented geography.
+> Perspective · Exploration · Global Vision · Beyond Boundaries
 
 ### Map
 
@@ -147,11 +157,13 @@ I come from Taiwan, but my perspective is not limited by geography.
 
 # Roses and Ants
 
-![Roses and hardworking ants, representing persistence behind flourishing results.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/04-roses-and-ants-craftsmanship.jpeg?raw=true)
-
 Perhaps the least technological illustration in the collection.
 
 It reflects a work ethic rather than a technical concept.
+
+![Roses and hardworking ants, representing persistence behind flourishing results.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/04-roses-and-ants-craftsmanship.jpeg?raw=true)
+
+> Craftsmanship · Persistence · Discipline · Invisible Contributions
 
 ### Roses
 
@@ -174,9 +186,11 @@ Large achievements are often built upon countless small contributions.
 
 # Nepenthes and Dancing Fairies
 
+A metaphor for extracting signal from noise.
+
 ![Dancing fairies atop a nepenthes, representing elegant challengers and small contributors.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/05-nepenthes-and-fairies-signal.jpeg?raw=true)
 
-A metaphor for extracting signal from noise.
+> Signal · Filtering · Discovery · Meaningful Patterns
 
 ### Nepenthes
 
@@ -194,3 +208,18 @@ Finding useful information inside overwhelming amounts of noise is a recurring t
 The dancing fairies symbolize contributors who continue moving forward despite uncertainty and challenge.
 
 Each ballerina represents a small but meaningful contributor whose efforts help create something larger than themselves.
+
+---
+
+<br />
+
+```text
++-----------------------------------------+
+|    _  _  ___ _____ ____ _   _ _  _ _    |
+|   | |/ // _ |_   _/ ___| | | | |/ | |   |
+|   | ' <| (_) || | \___ \ |_| | ' <| |   |
+|   |_|\_\\___/ |_| |____/\___/|_|\_\_|   |
+|                                         |
+|   kotsuki.dev@gmail.com                 |
++-----------------------------------------+
+```

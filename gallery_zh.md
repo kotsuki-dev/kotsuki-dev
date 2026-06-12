@@ -1,14 +1,14 @@
-# 個人視覺識別（Personal Visual Identity）
+# 個人視覺識別
 
 ## 核心主題
 
 我的個人品牌融合了幾種看似矛盾卻又彼此共存的特質：
 
-* 藝術感（Artistic）
-* 極客精神（Geeky）
-* 略帶詭譎（Slightly Creepy）
-* 超現實（Surreal）
-* 好奇心（Curious）
+* 藝術感
+* 極客精神
+* 有點詭異但不恐怖
+* 超現實
+* 令人感到好奇
 
 這些插畫並非隨意的裝飾，而是共同構成了一套視覺語言，用來呈現我如何思考、學習、建構系統，以及探索世界。
 
@@ -50,11 +50,13 @@
 
 ---
 
-# 拓展視野之蝶（Butterfly of Expanding Vision）
+# 視野拓展之蝶
+
+自畫像的頭頂長出一隻蝴蝶，象徵思想突破原有邊界，不斷向外延伸。
 
 ![Butterflies with eye-patterned wings spreading from a self-portrait, symbolizing curiosity and expanding perspectives.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/01-eye-butterfly-curiosity.jpeg?raw=true)
 
-自畫像的頭頂長出一隻蝴蝶，象徵思想突破原有邊界，不斷向外延伸。
+> 好奇心 · 想像 · 求知探索 · 視野拓展
 
 ### 蝴蝶
 
@@ -80,11 +82,13 @@
 
 ---
 
-# 思維與連結之網（Spiderweb of Thoughts and Connections）
+# 思維與連結之網
+
+自畫像被巨大的蜘蛛網覆蓋其中。
 
 ![A self-portrait woven into a spiderweb of thoughts, connections, and patterns.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/02-spiderweb-mind-connections.jpeg?raw=true)
 
-自畫像被巨大的蜘蛛網覆蓋其中。
+> 連結 · 搜尋 · 圖 · 知識網絡 · 模式識別
 
 ### 自畫像
 
@@ -105,18 +109,20 @@
 
 同時也可以被解讀為：
 
-* 圖論網路（Graphs）
-* 知識網絡（Knowledge Networks）
-* 神經連結（Neural Connections）
-* 搜尋系統（Search Systems）
+* 圖論網路
+* 知識網絡
+* 神經連結
+* 搜尋系統
 
 ---
 
-# 異世界中的好奇蝴蝶（Curious Butterflies in Another World）
+# 異世界中的好奇蝴蝶
+
+破壞邏輯的地理結構組成的超現實世界。
 
 ![A fragmented world map and butterfly, symbolizing global perspective and boundless imagination.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/03-otherworld-map-perspective.jpeg?raw=true)
 
-破壞邏輯的地理結構組成的超現實世界。
+> 視角 · 探索 · 全球視野 · 超越界限
 
 ### 地圖
 
@@ -143,13 +149,15 @@
 
 ---
 
-# 玫瑰與螞蟻（Roses and Ants）
-
-![Roses and hardworking ants, representing persistence behind flourishing results.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/04-roses-and-ants-craftsmanship.jpeg?raw=true)
+# 盛開的玫瑰與螞蟻
 
 這可能是整個系列中科技感最弱的一幅作品。
 
 它所呈現的並非技術概念，而是一種工作態度。
+
+![Roses and hardworking ants, representing persistence behind flourishing results.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/04-roses-and-ants-craftsmanship.jpeg?raw=true)
+
+> 打磨技藝 · 堅持不懈 · 自律 · 無形貢獻
 
 ### 玫瑰
 
@@ -170,11 +178,13 @@
 
 ---
 
-# 捕蟲草與跳舞精靈（Nepenthes and Dancing Fairies）
+# 捕蟲草與跳舞精靈
+
+這是一個「從雜訊中提取訊號」的隱喻。
 
 ![Dancing fairies atop a nepenthes, representing elegant challengers and small contributors.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/05-nepenthes-and-fairies-signal.jpeg?raw=true)
 
-這是一個「從雜訊中提取訊號」的隱喻。
+> 訊號 · 過濾 · 發現 · 有意義模式
 
 ### 捕蟲草
 
@@ -194,3 +204,18 @@
 每位芭蕾舞者都代表一位微小卻重要的貢獻者。
 
 正是這些看似不起眼的努力，最終共同創造出遠大於個體本身的成果。
+
+---
+
+<br />
+
+```text
++-----------------------------------------+
+|    _  _  ___ _____ ____ _   _ _  _ _    |
+|   | |/ // _ |_   _/ ___| | | | |/ | |   |
+|   | ' <| (_) || | \___ \ |_| | ' <| |   |
+|   |_|\_\\___/ |_| |____/\___/|_|\_\_|   |
+|                                         |
+|   kotsuki.dev@gmail.com                 |
++-----------------------------------------+
+```
