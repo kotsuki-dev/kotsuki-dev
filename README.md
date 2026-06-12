@@ -6,7 +6,7 @@ Taiwan · Backend Engineer · Python · TypeScript · AI Applications
 
 > echo ideas | build tools | organize knowledge
 
-## About
+## Mindset
 
 I enjoy building tools that turn messy information into useful systems.
 
@@ -31,10 +31,9 @@ Current explorations:
 * Similarity search
 * Workflow automation
 
-Repository:
-https://github.com/kotsuki-dev/email-ml-platform
+Repository : https://github.com/kotsuki-dev/email-ml-platform
 
-## Tech
+## Toolkit
 
 `Python` · `TypeScript`
 
@@ -42,17 +41,13 @@ https://github.com/kotsuki-dev/email-ml-platform
 
 `SQL Databases` · `APIs` · `Automation`
 
-<br />
-
----
-
 ## Visual Identity
 
 Artistic · Geeky · Slightly Creepy · Surreal · Curious
 
-The illustrations throughout this profile form a personal visual language inspired by curiosity, systems thinking, exploration, and hidden connections.
+A visual language that reflects how I think, learn, build systems, and explore the world.
 
-> Gallery: [English](gallery_en.md) · [中文](gallery_zh.md)
+> Gallery : [English](gallery_en.md) · [中文](gallery_zh.md)
 
 <br />
 
