@@ -2,7 +2,7 @@
 
 Taiwan · Backend Engineer · Python · TypeScript · AI Applications
 
-![A self-portrait with butterflies whose wings are formed by eyes of different sizes, symbolizing curiosity, imagination, and expanding perspectives.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/ButterflySproutsFromHead%26EyePatternsWings%3AOpenFieldOfVision-UnrestrainedImagination.jpeg?raw=true)
+![A self-portrait with butterflies whose wings are formed by eyes of different sizes, symbolizing curiosity, imagination, and expanding perspectives.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/01-eye-butterfly-curiosity.jpeg?raw=true)
 
 > echo ideas | build tools | organize knowledge
 
@@ -41,6 +41,18 @@ https://github.com/kotsuki-dev/email-ml-platform
 `LLM Applications` · `Search` · `Classification`
 
 `SQL Databases` · `APIs` · `Automation`
+
+<br />
+
+---
+
+## Visual Identity
+
+Artistic · Geeky · Slightly Creepy · Surreal · Curious
+
+The illustrations throughout this profile form a personal visual language inspired by curiosity, systems thinking, exploration, and hidden connections.
+
+> Gallery: [English](gallery_en.md) · [中文](gallery_zh.md)
 
 <br />
 
