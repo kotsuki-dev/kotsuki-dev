@@ -29,7 +29,7 @@ Supporting colors include:
 
 Most illustrations intentionally limit themselves to five or fewer colors.
 
-Transparency is the only color variation, while gradient fills are deliberately avoided. This creates stronger color blocks and sharper visual contrast.
+Transparency is used for variation, while gradient fills are deliberately avoided. This creates stronger color blocks and sharper visual contrast.
 
 ## Hybrid Style
 
@@ -122,7 +122,7 @@ It can also be interpreted as:
 
 ---
 
-# Curious Butterflies in Another World
+# Butterfly Across Worlds
 
 A surreal world built from fragmented geography.
 
@@ -155,7 +155,7 @@ I come from Taiwan, but my perspective is not limited by geography.
 
 ---
 
-# Roses and Ants
+# Ants of Craftsmanship
 
 Perhaps the least technological illustration in the collection.
 
@@ -184,7 +184,7 @@ Large achievements are often built upon countless small contributions.
 
 ---
 
-# Nepenthes and Dancing Fairies
+# Signal Harvest
 
 A metaphor for extracting signal from noise.
 

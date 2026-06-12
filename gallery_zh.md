@@ -82,13 +82,13 @@
 
 ---
 
-# 思維與連結之網
+# 思想與連結之蛛網
 
 自畫像被巨大的蜘蛛網覆蓋其中。
 
 ![A self-portrait woven into a spiderweb of thoughts, connections, and patterns.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/02-spiderweb-mind-connections.jpeg?raw=true)
 
-> 連結 · 搜尋 · 圖 · 知識網絡 · 模式識別
+> 連結 · 搜尋 · 圖結構 · 知識網絡 · 模式識別
 
 ### 自畫像
 
@@ -116,7 +116,7 @@
 
 ---
 
-# 異世界中的好奇蝴蝶
+# 跨越世界之蝶
 
 破壞邏輯的地理結構組成的超現實世界。
 
@@ -149,7 +149,7 @@
 
 ---
 
-# 盛開的玫瑰與螞蟻
+# 匠心耕耘之蟻
 
 這可能是整個系列中科技感最弱的一幅作品。
 
@@ -178,13 +178,13 @@
 
 ---
 
-# 捕蟲草與跳舞精靈
+# 訊號獵捕之草
 
 這是一個「從雜訊中提取訊號」的隱喻。
 
 ![Dancing fairies atop a nepenthes, representing elegant challengers and small contributors.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/05-nepenthes-and-fairies-signal.jpeg?raw=true)
 
-> 訊號 · 過濾 · 發現 · 有意義模式
+> 訊號 · 過濾 · 發現 · 隱藏規律
 
 ### 捕蟲草
 
