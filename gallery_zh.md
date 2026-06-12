@@ -14,9 +14,9 @@
 
 ---
 
-# 視覺設計原則
+## 視覺設計原則
 
-## 色彩配置
+### 色彩配置
 
 紫色是整個系列的主色調。
 
@@ -31,7 +31,7 @@
 
 作品只運用透明度改變顏色，但刻意避免使用漸層填色。這種做法讓色塊更鮮明，也創造出更強烈的視覺對比。
 
-## 混合風格
+### 混合風格
 
 這些插畫結合了兩種不同的視覺表現方式：
 
@@ -42,7 +42,7 @@
 
 較抽象的概念則透過幾何圖形與向量化結構來呈現。
 
-## 對比
+### 對比
 
 整體配色策略追求在最低複雜度下創造最大的視覺張力。
 
@@ -50,7 +50,7 @@
 
 ---
 
-# 視野拓展之蝶
+## 視野拓展之蝶
 
 自畫像的頭頂長出一隻蝴蝶，象徵思想突破原有邊界，不斷向外延伸。
 
@@ -82,11 +82,15 @@
 
 ---
 
-# 思想與連結之蛛網
+## 思想與連結之蛛網
 
 自畫像被巨大的蜘蛛網覆蓋其中。
 
-![A self-portrait woven into a spiderweb of thoughts, connections, and patterns.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/02-spiderweb-mind-connections.jpeg?raw=true)
+<img
+  src="https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/02-spiderweb-mind-connections.jpeg?raw=true"
+  alt="A self-portrait woven into a spiderweb of thoughts, connections, and patterns."
+  height="256"
+/>
 
 > 連結 · 搜尋 · 圖結構 · 知識網絡 · 模式識別
 
@@ -116,7 +120,7 @@
 
 ---
 
-# 跨越世界之蝶
+## 跨越世界之蝶
 
 破壞邏輯的地理結構組成的超現實世界。
 
@@ -149,7 +153,7 @@
 
 ---
 
-# 匠心耕耘之蟻
+## 匠心耕耘之蟻
 
 這可能是整個系列中科技感最弱的一幅作品。
 
@@ -178,7 +182,7 @@
 
 ---
 
-# 訊號獵捕之草
+## 訊號獵捕之草
 
 這是一個「從雜訊中提取訊號」的隱喻。
 

@@ -14,9 +14,9 @@ These illustrations are not random decorations. Together they form a visual lang
 
 ---
 
-# Visual Design Principles
+## Visual Design Principles
 
-## Color Palette
+### Color Palette
 
 Purple serves as the dominant color throughout the series.
 
@@ -31,7 +31,7 @@ Most illustrations intentionally limit themselves to five or fewer colors.
 
 Transparency is used for variation, while gradient fills are deliberately avoided. This creates stronger color blocks and sharper visual contrast.
 
-## Hybrid Style
+### Hybrid Style
 
 The illustrations combine two visual approaches:
 
@@ -42,7 +42,7 @@ Objects with stronger emotional or character-driven elements are outlined using 
 
 More abstract concepts are represented through geometric and vector-based forms.
 
-## Contrast
+### Contrast
 
 The overall color strategy aims for maximum visual tension with minimal complexity.
 
@@ -50,7 +50,7 @@ Simple palettes are used to create strong contrast, memorable silhouettes, and i
 
 ---
 
-# Butterfly of Expanding Vision
+## Butterfly of Expanding Vision
 
 The central symbol of the entire brand.
 
@@ -84,7 +84,7 @@ This contrast represents structure coexisting with freedom, and boundaries that 
 
 ---
 
-# Spiderweb of Thoughts and Connections
+## Spiderweb of Thoughts and Connections
 
 A self-portrait covered by a giant spiderweb.
 
@@ -122,7 +122,7 @@ It can also be interpreted as:
 
 ---
 
-# Butterfly Across Worlds
+## Butterfly Across Worlds
 
 A surreal world built from fragmented geography.
 
@@ -155,7 +155,7 @@ I come from Taiwan, but my perspective is not limited by geography.
 
 ---
 
-# Ants of Craftsmanship
+## Ants of Craftsmanship
 
 Perhaps the least technological illustration in the collection.
 
@@ -184,7 +184,7 @@ Large achievements are often built upon countless small contributions.
 
 ---
 
-# Signal Harvest
+## Signal Harvest
 
 A metaphor for extracting signal from noise.
 
