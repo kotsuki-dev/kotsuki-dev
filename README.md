@@ -2,7 +2,7 @@
 
 Taiwan · Backend Engineer · Python · TypeScript · AI Applications
 
-![A self-portrait with butterflies whose wings are formed by eyes of different sizes, symbolizing curiosity, imagination, and expanding perspectives.](https://github.com/kotsuki-dev/kotsuki-dev/blob/main/gallery/ButterflySproutsFromHead%26EyePatternsWings%3AOpenFieldOfVision-UnrestrainedImagination.jpeg?raw=true)
+![A self-portrait with butterflies whose wings are formed by eyes of different sizes, symbolizing curiosity, imagination, and expanding perspectives.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/ButterflySproutsFromHead%26EyePatternsWings%3AOpenFieldOfVision-UnrestrainedImagination.jpeg?raw=true)
 
 > echo ideas | build tools | organize knowledge
 
