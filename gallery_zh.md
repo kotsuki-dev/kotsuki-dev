@@ -50,13 +50,13 @@
 
 ---
 
-## 視野拓展之蝶
+## 智識拓展之眼
 
 自畫像的頭頂長出一隻蝴蝶，象徵思想突破原有邊界，不斷向外延伸。
 
 ![Butterflies with eye-patterned wings spreading from a self-portrait, symbolizing curiosity and expanding perspectives.](https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/01-eye-butterfly-curiosity.jpeg?raw=true)
 
-> 好奇心 · 想像 · 求知探索 · 視野拓展
+> 好奇 · 想像 · 求知探索 · 視野拓展
 
 ### 蝴蝶
 
