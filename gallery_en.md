@@ -91,7 +91,7 @@ A self-portrait covered by a giant spiderweb.
 <img
   src="https://raw.githubusercontent.com/kotsuki-dev/kotsuki-dev/main/gallery/02-spiderweb-mind-connections.jpeg?raw=true"
   alt="A self-portrait woven into a spiderweb of thoughts, connections, and patterns."
-  height="256"
+  width="25%"
 />
 
 > Connections · Search · Graph · Knowledge Network · Pattern Recognition
@@ -218,12 +218,14 @@ It is these seemingly insignificant efforts that ultimately create an achievemen
 <br />
 
 ```text
-+-----------------------------------------+
-|    _  _  ___ _____ ____ _   _ _  _ _    |
-|   | |/ // _ |_   _/ ___| | | | |/ | |   |
-|   | ' <| (_) || | \___ \ |_| | ' <| |   |
-|   |_|\_\\___/ |_| |____/\___/|_|\_\_|   |
-|                                         |
-|   kotsuki.dev@gmail.com                 |
-+-----------------------------------------+
++-----------------------------------+
+  _  _  ___ _____ ____ _   _ _  _ _ 
+ | |/ // _ |_   _/ ___| | | | |/ | |
+ | ' <| (_) || | \___ \ |_| | ' <| |
+ |_|\_\\___/ |_| |____/\___/|_|\_\_|
+ 
++------ kotsuki.dev@gmail.com ------+
++-----------------------------------+
 ```
+
+<br />
