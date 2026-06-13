@@ -50,7 +50,7 @@ Simple palettes are used to create strong contrast, memorable silhouettes, and i
 
 ---
 
-## Butterfly of Expanding Vision
+## Eyes of Intellectual Expansion
 
 The central symbol of the entire brand.
 
