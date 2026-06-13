@@ -98,7 +98,9 @@ A self-portrait covered by a giant spiderweb.
 
 ### Self-Portrait
 
-The stiff, doll-like hairstyle, coupled with a world-weary expression, reveals a somewhat ironic self-image.
+The stiff, doll-like hairstyle implies a traditional and rigid family background.
+
+The misanthropic eyes and expression reveal rebellious thoughts and a touch of irony.
 
 Comic-style linework hints at my affection for anime, manga, and geek culture.
 
@@ -149,7 +151,7 @@ Its eye patterns extend beyond one side of the image and reappear from another, 
 
 ### Taiwan
 
-A small Easter egg is hidden within the map.
+A small Easter egg is hidden within the map, using particularly bright contrasting colors.
 
 I come from Taiwan, but my perspective is not limited by geography.
 
@@ -205,9 +207,11 @@ Finding useful information inside overwhelming amounts of noise is a recurring t
 
 ### Fairies
 
-The dancing fairies symbolize contributors who continue moving forward despite uncertainty and challenge.
+The graceful dancing fairies symbolize participants who continue moving forward despite uncertainty and challenge.
 
-Each ballerina represents a small but meaningful contributor whose efforts help create something larger than themselves.
+Each fairies represents a small yet vital contributor; the ballet posture aims to convey a steadfast and elegant demeanor.
+
+It is these seemingly insignificant efforts that ultimately create an achievement far greater than the individual contributions.
 
 ---
 
