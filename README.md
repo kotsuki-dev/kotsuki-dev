@@ -1,4 +1,6 @@
-# Tsú-Kî (kotsuki)
+# kotsuki
+
+**(Tsú-Kî Ko)**
 
 Taiwan · Backend Engineer · Python · TypeScript · AI Applications
 
